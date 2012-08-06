@@ -1,4 +1,4 @@
-= Connect vhosts example
+# Connect vhosts example
 To use the vhosts, edit your `/etc/hosts` and add:
 
     127.0.0.1 foo
