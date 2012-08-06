@@ -1,8 +1,8 @@
 {
-  "name": "vhosts",
+  "name": "connect-vhost-example",
   "version": "0.0.1",
-  "description": "ERROR: No README.md file found!",
-  "main": "index.js",
+  "description": "Connect vhost example",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
